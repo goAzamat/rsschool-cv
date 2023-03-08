@@ -10,3 +10,16 @@
 * Github: [goAzamat](https://github.com/goAzamat)
 * Codepen [goazamat](https://codepen.io/goazamat)
 
+## About Myself 
+
+My name is Azamat. I'm a junior frontend engineer, currently based in Moscow but originally from Bishkek. 
+
+I work for one of Horeca's leading ingredient companies, as a senior barista-developer of beverages. 
+
+I fell in love with coding and became interested in 2021 on a work trip to Qatar, Doha. Lived there for 2 years.
+
+If I talk about my hobbies I love travelling and exploring new places and listening to music. 
+
+I'm a Fresher. My Strength is I'm a quick learner, self-motivated and hard-working.
+
+My short-term goal is to get a job in a reputed company where I can improve my skills and experience.
