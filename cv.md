@@ -29,3 +29,14 @@ My short-term goal is to get a job in a reputed company where I can improve my s
 **Moscow Economical University**
 + Received Bachelour Degree in Economics with a focus in Banking.
 + Completed an internship at the Sberbank, Moscow.
+
+## Skills 
++ HTML
++ CSS (Bootstrap)
++ Javascript
++ Git, Github 
++ VSCode
+
+## Languages 
++ Russian - native speaker 
++ English - A2
