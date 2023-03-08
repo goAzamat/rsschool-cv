@@ -23,3 +23,9 @@ If I talk about my hobbies I love travelling and exploring new places and listen
 I'm a Fresher. My Strength is I'm a quick learner, self-motivated and hard-working.
 
 My short-term goal is to get a job in a reputed company where I can improve my skills and experience.
+
+## Education
+
+**Moscow Economical University**
++ Received Bachelour Degree in Economics with a focus in Banking.
++ Completed an internship at the Sberbank, Moscow.
