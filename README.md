@@ -1,1 +1,1 @@
-# rsschool-cv
+https://goAzamat.github.io/rsschool-cv/
